@@ -1,0 +1,4 @@
+.*
+!.gitignore
+File-CheckTree-*
+Debian_CPANTS.txt
