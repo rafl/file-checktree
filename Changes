@@ -1,3 +1,7 @@
+4.42  Thu Feb  7 15:51:35 EST 2013
+  * add warning (for core-installed copy only) indicating File::CheckTree
+    will be removed from core in 5.20.0
+
 4.41  Sat, 09 Jul 2011 11:25:42 +0200
   * Bump version to synchronise with the perl core.
   * Add authority metadata.
